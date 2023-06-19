@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- *main - where all program is written.
- *return: always 0 (success)
+ * main - where all program is written.
+ *
+ * Return: 0 (success)
  */
 int main(void)
 {
